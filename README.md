@@ -240,3 +240,7 @@ Yoshikazu Nakamura
 Email: info@xinse.jp
 
 Japan (Aichi Prefecture)
+
+🔗 Author Profile (LinkedIn)
+https://www.linkedin.com/in/y-nakamura-ai/
+
