@@ -1,3 +1,40 @@
+📌 Patent-Pending Dynamic Security Architecture for Zero-Risk Authentication
+UDAS + DSS Unified Authentication Model
+
+A next-generation, mathematically unexploitable security architecture for IoT devices, robotics, industrial systems, cloud platforms, and large-scale digital services.
+This architecture eliminates passwords, IC cards, certificates, fixed secrets, and all reusable credentials by generating purpose-specific, one-time, self-destroying authentication keys that cannot be reused, cloned, stolen, phished, extracted, or replayed.
+
+🔐 Key Capabilities
+
+Zero-Reuse, Zero-Risk Authentication（すべての鍵は自動消滅）
+
+No Stored Secrets（攻撃者が盗むものが存在しない）
+
+Replay / Impersonation / Cloning Attack–Proof
+
+Zero-Decompression Real-Time Verification
+
+Hardware-Independent（MCUs → Robots → Cloud Services まで対応）
+
+📄 Patent Status
+
+Patent Pending (JP Application No. 2024-172823)
+Licensing, joint development, and full acquisition are available.
+
+📘 Whitepaper (DOI – Zenodo)
+
+https://doi.org/10.5281/zenodo.17845912
+
+🧪 Prototype & Technical Documentation
+
+This repository includes early implementation notes and schema designs for teams evaluating the architecture.
+
+📩 Contact
+
+info@xinse.jp
+
+Open to licensing, collaboration, or acquisition discussions.
+
 UDAS – Universal Dynamic Authentication System
 Prototype-Based Zero-Risk Access Control for Real-World Devices and Digital Platforms
 
