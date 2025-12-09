@@ -1,3 +1,30 @@
+🔐 Dynamic Non-Reusable Authentication Artifact (DNRA) Model
+A Zero-Replay, Secret-Free Security Layer for Biometric Identity Systems
+
+The Dynamic Non-Reusable Authentication Artifact (DNRA) model extends the UDAS/DSS zero-risk authentication architecture to biometric systems. DNRA eliminates all structural vulnerabilities of conventional biometric authentication by generating one-time, self-destroying, non-replayable authentication artifacts that contain no stored secrets and no reconstructible identifiers.
+
+Key Advantages
+
+Eliminates biometric theft risks (no stolen fingerprints, facial vectors, iris codes, or embeddings).
+
+Prevents replay attacks and cloning, even if biometric samples are intercepted.
+
+No templates, hashes, embeddings, or encrypted secrets are stored anywhere.
+
+Compatible with existing biometric sensors — no hardware changes required.
+
+*Achieves the world’s first "secret-free" and "non-replayable" biometric authentication model.
+
+Fully aligned with the patent-pending UDAS/DSS architecture (JP Application No. 2024-172823).
+
+Whitepaper
+
+📄 Dynamic Non-Reusable Authentication Artifact (DNRA) Model for Securing Biometric Identity Systems
+DOI: https://doi.org/10.5281/zenodo.17866918
+
+This paper introduces the concept, architecture, mathematical rationale, and security guarantees behind DNRA.
+It positions DNRA as a next-generation identity verification paradigm, eliminating the fundamental limitations of traditional biometric systems.
+
 📌 Patent-Pending Dynamic Security Architecture for Zero-Risk Authentication
 UDAS + DSS Unified Authentication Model
 
