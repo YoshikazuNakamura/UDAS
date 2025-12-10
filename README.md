@@ -1,3 +1,22 @@
+Version 3 Released (Dynamic Code Authentication Framework)
+
+A new Version 3 (V3.pdf) introducing Dynamic QR, Dynamic Barcode, and Context-Aware Dynamic Code Authentication is now available.
+
+Version 3 includes:
+
+A unified dynamic security framework for QR codes and barcodes
+
+Non-replayable, tamper-proof authentication without modifying existing scanners
+
+Context-aware verification powered by DNRA
+
+Collaboration, licensing, and acquisition opportunities for companies
+
+🔗 Download V3: V3 Dynamic Code Authentication.pdf
+🔗 Zenodo DOI: https://zenodo.org/records/17886718
+
+This version is highly recommended for businesses, security engineers, payment platforms, logistics systems, and companies evaluating deployment or partnership opportunities.
+
 ## 📘 Version 2 Released (DNRA Model with Intuitive Overview)
 
 A new Version 2 (V2.pdf) of the Dynamic Non-Reusable Authentication Artifact (DNRA) Model is now available.
