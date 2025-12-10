@@ -1,3 +1,17 @@
+## 📘 Version 2 Released (DNRA Model with Intuitive Overview)
+
+A new Version 2 (V2.pdf) of the Dynamic Non-Reusable Authentication Artifact (DNRA) Model is now available.
+
+Version 2 includes:
+- A new Section 0 providing an intuitive, non-technical explanation of dynamic security  
+- A clearer introduction to how DNRA enables renewable biometric authentication  
+- Improved structural organization for both engineers and non-specialists  
+
+🔗 Download V2: [V2.pdf](./V2.pdf)
+🔗 Zenodo DOI: https://zenodo.org/records/17876049
+
+This version is recommended for general readers, executives, and companies evaluating collaboration or licensing opportunities.
+
 🔐 Dynamic Non-Reusable Authentication Artifact (DNRA) Model
 A Zero-Replay, Secret-Free Security Layer for Biometric Identity Systems
 
